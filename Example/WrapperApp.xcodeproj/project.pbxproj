@@ -28,8 +28,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		22FB450DBC589D4E7E070A83 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		589561594F8BADB2B393A458 /* WrapperApp.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = WrapperApp.podspec; path = ../WrapperApp.podspec; sourceTree = "<group>"; };
+		22FB450DBC589D4E7E070A83 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		589561594F8BADB2B393A458 /* WrapperApp.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = WrapperApp.podspec; path = ../WrapperApp.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		607FACD01AFB9204008FA782 /* WrapperApp_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WrapperApp_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -44,7 +44,7 @@
 		DF0821DC499F2AF97064DDA7 /* Pods-WrapperApp_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WrapperApp_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WrapperApp_Example/Pods-WrapperApp_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		E22BC8D6D7A4750647C286B2 /* Pods_WrapperApp_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WrapperApp_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5CF12AEA94D5E9CDD92E446 /* Pods-WrapperApp_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WrapperApp_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WrapperApp_Tests/Pods-WrapperApp_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		EF3CF337E5D43AB257944D41 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		EF3CF337E5D43AB257944D41 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		F07AF097CA202323C2F21179 /* Pods_WrapperApp_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WrapperApp_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F869BE3FFE342CB7B1E59FDA /* Pods-WrapperApp_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WrapperApp_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-WrapperApp_Example/Pods-WrapperApp_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -266,15 +266,11 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-			);
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-WrapperApp_Example/Pods-WrapperApp_Example-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/WrapperApp/WrapperApp.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-			);
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/WrapperApp.framework",
 			);
@@ -288,15 +284,11 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-			);
 			inputPaths = (
 				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
 				"${PODS_ROOT}/Manifest.lock",
 			);
 			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
 			outputPaths = (
 				"$(DERIVED_FILE_DIR)/Pods-WrapperApp_Tests-checkManifestLockResult.txt",
 			);
@@ -310,15 +302,11 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-			);
 			inputPaths = (
 				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
 				"${PODS_ROOT}/Manifest.lock",
 			);
 			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
 			outputPaths = (
 				"$(DERIVED_FILE_DIR)/Pods-WrapperApp_Example-checkManifestLockResult.txt",
 			);

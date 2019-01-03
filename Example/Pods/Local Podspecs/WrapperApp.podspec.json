@@ -1,0 +1,22 @@
+{
+  "name": "WrapperApp",
+  "version": "0.1.0",
+  "summary": "A short description of WrapperApp.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/satish424k/WrapperApp",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "satish424k": "Sathish.Kotturu@Honeywell.com"
+  },
+  "source": {
+    "git": "https://github.com/satish424k/WrapperApp.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WrapperApp/Classes/**/*"
+}

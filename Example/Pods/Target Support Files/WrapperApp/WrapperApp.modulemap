@@ -1,0 +1,6 @@
+framework module WrapperApp {
+  umbrella header "WrapperApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

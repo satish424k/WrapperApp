@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'WrapperApp'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of WrapperApp.'
+  s.summary          = 'A short description of WrapperApp.This description is used to generate tags and improve search results'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,9 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = '* Think: What does it do? Why did you write it? What is the focus?* Try to keep it short, snappy and to the point.Finally, dont worry about the indent, CocoaPods strips it!'
 
   s.homepage         = 'https://github.com/satish424k/WrapperApp'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'

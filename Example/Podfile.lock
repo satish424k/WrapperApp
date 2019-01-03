@@ -1,0 +1,16 @@
+PODS:
+  - WrapperApp (0.1.0)
+
+DEPENDENCIES:
+  - WrapperApp (from `../`)
+
+EXTERNAL SOURCES:
+  WrapperApp:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WrapperApp: 1839359d275390c98b617f965a75d28201ed44d3
+
+PODFILE CHECKSUM: 3f428cb55c0b9c7a56c689fbb54579b6bc2685a7
+
+COCOAPODS: 1.5.3
