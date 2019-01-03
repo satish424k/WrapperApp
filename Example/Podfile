@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WrapperApp_Example' do
+  pod 'WrapperApp', :path => '../'
+
+  target 'WrapperApp_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
