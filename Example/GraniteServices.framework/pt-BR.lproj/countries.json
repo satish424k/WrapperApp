@@ -1,0 +1,1364 @@
+[
+    {
+        "name": "Afeganistão",
+        "code": "AF"
+    },
+    {
+        "name": "Ilhas de Aland",
+        "code": "AX"
+    },
+    {
+        "name": "Albânia",
+        "code": "AL"
+    },
+    {
+        "name": "Argélia",
+        "code": "DZ"
+    },
+    {
+        "name": "Samoa Americana",
+        "code": "AS"
+    },
+    {
+        "name": "Andorra",
+        "code": "AD"
+    },
+    {
+        "name": "Angola",
+        "code": "AO"
+    },
+    {
+        "name": "Anguila",
+        "code": "AI"
+    },
+    {
+        "name": "Antártica",
+        "code": "AQ"
+    },
+    {
+        "name": "Antígua e Barbuda",
+        "code": "AG"
+    },
+    {
+        "name": "Argentina",
+        "code": "AR"
+    },
+    {
+        "name": "Armênia",
+        "code": "AM"
+    },
+    {
+        "name": "Aruba",
+        "code": "AW"
+    },
+    {
+        "name": "Austrália",
+        "code": "AU"
+    },
+    {
+        "name": "Áustria",
+        "code": "AT"
+    },
+    {
+        "name": "Azerbaijão",
+        "code": "AZ"
+    },
+    {
+        "name": "Bahamas",
+        "code": "BS"
+    },
+    {
+        "name": "Bahrein",
+        "code": "BH"
+    },
+    {
+        "name": "Bangladesh",
+        "code": "BD"
+    },
+    {
+        "name": "Barbados",
+        "code": "BB"
+    },
+    {
+        "name": "Belarus",
+        "code": "BY"
+    },
+    {
+        "name": "Bélgica",
+        "code": "BE"
+    },
+    {
+        "name": "Belize",
+        "code": "BZ"
+    },
+    {
+        "name": "Benin",
+        "code": "BJ"
+    },
+    {
+        "name": "Bermudas",
+        "code": "BM"
+    },
+    {
+        "name": "Butão",
+        "code": "BT"
+    },
+    {
+        "name": "Bolívia",
+        "code": "BO"
+    },
+    {
+        "name": "Bósnia e Herzegovina",
+        "code": "BA"
+    },
+    {
+        "name": "Botsuana",
+        "code": "BW"
+    },
+    {
+        "name": "Ilha Bouvet",
+        "code": "BV"
+    },
+    {
+        "name": "Brasil",
+        "code": "BR"
+    },
+    {
+        "name": "Território britânico do Oceano Índico",
+        "code": "IO"
+    },
+    {
+        "name": "Brunei Darussalam",
+        "code": "BN"
+    },
+    {
+        "name": "Bulgária",
+        "code": "BG"
+    },
+    {
+        "name": "Burkina Faso",
+        "code": "BF"
+    },
+    {
+        "name": "Burundi",
+        "code": "BI"
+    },
+    {
+        "name": "Camboja",
+        "code": "KH"
+    },
+    {
+        "name": "Camarões",
+        "code": "CM"
+    },
+    {
+        "name": "Canadá",
+        "code": "CA",
+        "stateTerm": "Província",
+        "stateTermKey": "camera_install_value_province",
+        "zipTerm": "Postal",
+        "zipTermKey": "camera_install_value_postal",
+        "zipIsOnlyNumbers": false,
+        "states": [
+            {
+                "timeZone": "Montanha",
+                "abbreviation": "AB",
+                "name": "Alberta"
+            },
+            {
+                "timeZone": "Pacífico",
+                "abbreviation": "BC",
+                "name": "Colúmbia Britânica"
+            },
+            {
+                "timeZone": "Central",
+                "abbreviation": "MB",
+                "name": "Manitoba"
+            },
+            {
+                "timeZone": "Atlântico",
+                "abbreviation": "NB",
+                "name": "New Brunswick"
+            },
+            {
+                "timeZone": "Newfoundland",
+                "abbreviation": "NL",
+                "name": "Newfoundland e Labrador"
+            },
+            {
+                "timeZone": "Montanha",
+                "abbreviation": "NT",
+                "name": "Territórios do Noroeste"
+            },
+            {
+                "timeZone": "Atlântico",
+                "abbreviation": "NS",
+                "name": "Nova Escócia"
+            },
+            {
+                "timeZone": "Central",
+                "abbreviation": "NU",
+                "name": "Nunavut"
+            },
+            {
+                "timeZone": "Leste",
+                "abbreviation": "LIGADO",
+                "name": "Ontário"
+            },
+            {
+                "timeZone": "Atlântico",
+                "abbreviation": "PE",
+                "name": "Ilha Príncipe Edward"
+            },
+            {
+                "timeZone": "Leste",
+                "abbreviation": "QC",
+                "name": "Quebec"
+            },
+            {
+                "timeZone": "Central",
+                "abbreviation": "SK",
+                "name": "Saskatchewan"
+            },
+            {
+                "timeZone": "Pacífico",
+                "abbreviation": "YT",
+                "name": "Yukon"
+            }
+        ]
+    },
+    {
+        "name": "Cabo Verde",
+        "code": "CV"
+    },
+    {
+        "name": "Ilhas Cayman",
+        "code": "KY"
+    },
+    {
+        "name": "República Centro-Africana",
+        "code": "CF"
+    },
+    {
+        "name": "Chade",
+        "code": "TD"
+    },
+    {
+        "name": "Chile",
+        "code": "CL"
+    },
+    {
+        "name": "China",
+        "code": "CN"
+    },
+    {
+        "name": "Ilha do Natal",
+        "code": "CX"
+    },
+    {
+        "name": "Ilhas Cocos (Keeling)",
+        "code": "CC"
+    },
+    {
+        "name": "Colômbia",
+        "code": "CO"
+    },
+    {
+        "name": "Comores",
+        "code": "KM"
+    },
+    {
+        "name": "Congo",
+        "code": "CG"
+    },
+    {
+        "name": "Congo, República Democrática do",
+        "code": "CD"
+    },
+    {
+        "name": "Ilhas Cook",
+        "code": "CK"
+    },
+    {
+        "name": "Costa Rica",
+        "code": "CR"
+    },
+    {
+        "name": "Costa do Marfim",
+        "code": "CI"
+    },
+    {
+        "name": "Croácia",
+        "code": "HR"
+    },
+    {
+        "name": "Cuba",
+        "code": "CU"
+    },
+    {
+        "name": "Curaçao",
+        "code": "CW"
+    },
+    {
+        "name": "Chipre",
+        "code": "CY"
+    },
+    {
+        "name": "República Tcheca",
+        "code": "CZ"
+    },
+    {
+        "name": "Dinamarca",
+        "code": "DK"
+    },
+    {
+        "name": "Djibouti",
+        "code": "DJ"
+    },
+    {
+        "name": "Dominica",
+        "code": "DM"
+    },
+    {
+        "name": "República Dominicana",
+        "code": "DO"
+    },
+    {
+        "name": "Equador",
+        "code": "EC"
+    },
+    {
+        "name": "Egito",
+        "code": "EG"
+    },
+    {
+        "name": "El Salvador",
+        "code": "SV"
+    },
+    {
+        "name": "Guiné Equatorial",
+        "code": "GQ"
+    },
+    {
+        "name": "Eritreia",
+        "code": "ER"
+    },
+    {
+        "name": "Estônia",
+        "code": "EE"
+    },
+    {
+        "name": "Etiópia",
+        "code": "ET"
+    },
+    {
+        "name": "Ilhas Falkland (Malvinas)",
+        "code": "FK"
+    },
+    {
+        "name": "ilhas Feroe",
+        "code": "FO"
+    },
+    {
+        "name": "Fiji",
+        "code": "FJ"
+    },
+    {
+        "name": "Finlândia",
+        "code": "FI"
+    },
+    {
+        "name": "França",
+        "code": "FR"
+    },
+    {
+        "name": "Guiana Francesa",
+        "code": "GF"
+    },
+    {
+        "name": "Polinésia Francesa",
+        "code": "PF"
+    },
+    {
+        "name": "Terras Austrais e Antárticas Francesas",
+        "code": "TF"
+    },
+    {
+        "name": "Gabão",
+        "code": "GA"
+    },
+    {
+        "name": "Gâmbia",
+        "code": "GM"
+    },
+    {
+        "name": "Geórgia",
+        "code": "GE"
+    },
+    {
+        "name": "Alemanha",
+        "code": "DE"
+    },
+    {
+        "name": "Gana",
+        "code": "GH"
+    },
+    {
+        "name": "Gibraltar",
+        "code": "GI"
+    },
+    {
+        "name": "Grécia",
+        "code": "GR"
+    },
+    {
+        "name": "Groenlândia",
+        "code": "GL"
+    },
+    {
+        "name": "Granada",
+        "code": "GD"
+    },
+    {
+        "name": "Guadalupe",
+        "code": "GP"
+    },
+    {
+        "name": "Guam",
+        "code": "GU"
+    },
+    {
+        "name": "Guatemala",
+        "code": "GT"
+    },
+    {
+        "name": "Guernsey",
+        "code": "GG"
+    },
+    {
+        "name": "Guiné",
+        "code": "GN"
+    },
+    {
+        "name": "Guiné-Bissau",
+        "code": "GW"
+    },
+    {
+        "name": "Guiana",
+        "code": "GY"
+    },
+    {
+        "name": "Haiti",
+        "code": "HT"
+    },
+    {
+        "name": "Ilhas Heard e Mcdonald",
+        "code": "HM"
+    },
+    {
+        "name": "Santa Sé (Estado da Cidade do Vaticano)",
+        "code": "VA"
+    },
+    {
+        "name": "Honduras",
+        "code": "HN"
+    },
+    {
+        "name": "Hong Kong",
+        "code": "HK"
+    },
+    {
+        "name": "Hungria",
+        "code": "HU"
+    },
+    {
+        "name": "Islândia",
+        "code": "IS"
+    },
+    {
+        "name": "Índia",
+        "code": "IN"
+    },
+    {
+        "name": "Indonésia",
+        "code": "ID"
+    },
+    {
+        "name": "Irã, República Islâmica do",
+        "code": "IR"
+    },
+    {
+        "name": "Iraque",
+        "code": "IQ"
+    },
+    {
+        "name": "Irlanda",
+        "code": "IE"
+    },
+    {
+        "name": "Ilha de Man",
+        "code": "IM"
+    },
+    {
+        "name": "Israel",
+        "code": "IL"
+    },
+    {
+        "name": "Itália",
+        "code": "IT"
+    },
+    {
+        "name": "Jamaica",
+        "code": "JM"
+    },
+    {
+        "name": "Japão",
+        "code": "JP"
+    },
+    {
+        "name": "Jersey",
+        "code": "JE"
+    },
+    {
+        "name": "Jordânia",
+        "code": "JO"
+    },
+    {
+        "name": "Cazaquistão",
+        "code": "KZ"
+    },
+    {
+        "name": "Quênia",
+        "code": "KE"
+    },
+    {
+        "name": "Kiribati",
+        "code": "KI"
+    },
+    {
+        "name": "Coreia, República Popular Democrática da",
+        "code": "KP"
+    },
+    {
+        "name": "Coreia, República da",
+        "code": "KR"
+    },
+    {
+        "name": "Kuwait",
+        "code": "KW"
+    },
+    {
+        "name": "Quirguistão",
+        "code": "KG"
+    },
+    {
+        "name": "Lao, República Democrática Popular",
+        "code": "LA"
+    },
+    {
+        "name": "Letônia",
+        "code": "LV"
+    },
+    {
+        "name": "Líbano",
+        "code": "LB"
+    },
+    {
+        "name": "Lesoto",
+        "code": "LS"
+    },
+    {
+        "name": "Libéria",
+        "code": "LR"
+    },
+    {
+        "name": "Jamahiriya Árabe Libia",
+        "code": "LY"
+    },
+    {
+        "name": "Liechtenstein",
+        "code": "LI"
+    },
+    {
+        "name": "Lituânia",
+        "code": "LT"
+    },
+    {
+        "name": "Luxemburgo",
+        "code": "LU"
+    },
+    {
+        "name": "Macau",
+        "code": "MO"
+    },
+    {
+        "name": "Macedônia, Antiga República Jugoslava da",
+        "code": "MK"
+    },
+    {
+        "name": "Madagascar",
+        "code": "MG"
+    },
+    {
+        "name": "Malawi",
+        "code": "MW"
+    },
+    {
+        "name": "Malásia",
+        "code": "MY"
+    },
+    {
+        "name": "Maldivas",
+        "code": "MV"
+    },
+    {
+        "name": "Mali",
+        "code": "ML"
+    },
+    {
+        "name": "Malta",
+        "code": "MT"
+    },
+    {
+        "name": "Ilhas Marshall",
+        "code": "MH"
+    },
+    {
+        "name": "Martinica",
+        "code": "MQ"
+    },
+    {
+        "name": "Mauritânia",
+        "code": "MR"
+    },
+    {
+        "name": "Maurícia",
+        "code": "MU"
+    },
+    {
+        "name": "Mayotte",
+        "code": "YT"
+    },
+    {
+        "name": "México",
+        "code": "MX"
+    },
+    {
+        "name": "Micronésia, Estados Federativos da",
+        "code": "FM"
+    },
+    {
+        "name": "Moldávia, República de",
+        "code": "MD"
+    },
+    {
+        "name": "Mônaco",
+        "code": "MC"
+    },
+    {
+        "name": "Mongólia",
+        "code": "MN"
+    },
+    {
+        "name": "Montenegro",
+        "code": "ME"
+    },
+    {
+        "name": "Montserrat",
+        "code": "MS"
+    },
+    {
+        "name": "Marrocos",
+        "code": "MA"
+    },
+    {
+        "name": "Moçambique",
+        "code": "MZ"
+    },
+    {
+        "name": "Myanmar",
+        "code": "MM"
+    },
+    {
+        "name": "Namíbia",
+        "code": "NA"
+    },
+    {
+        "name": "Nauru",
+        "code": "NR"
+    },
+    {
+        "name": "Nepal",
+        "code": "NP"
+    },
+    {
+        "name": "Holanda",
+        "code": "NL"
+    },
+    {
+        "name": "Antilhas Holandesas",
+        "code": "AN"
+    },
+    {
+        "name": "Nova Caledônia",
+        "code": "NC"
+    },
+    {
+        "name": "Nova Zelândia",
+        "code": "NZ"
+    },
+    {
+        "name": "Nicarágua",
+        "code": "NI"
+    },
+    {
+        "name": "Níger",
+        "code": "NE"
+    },
+    {
+        "name": "Nigéria",
+        "code": "NG"
+    },
+    {
+        "name": "Niue",
+        "code": "NU"
+    },
+    {
+        "name": "Ilha Norfolk",
+        "code": "NF"
+    },
+    {
+        "name": "Ilhas Mariana do Norte",
+        "code": "MP"
+    },
+    {
+        "name": "Noruega",
+        "code": "NO"
+    },
+    {
+        "name": "Omã",
+        "code": "OM"
+    },
+    {
+        "name": "Paquistão",
+        "code": "PK"
+    },
+    {
+        "name": "Palau",
+        "code": "PW"
+    },
+    {
+        "name": "Território Palestino, Ocupado",
+        "code": "PS"
+    },
+    {
+        "name": "Panamá",
+        "code": "PA"
+    },
+    {
+        "name": "Papua Nova Guiné",
+        "code": "PG"
+    },
+    {
+        "name": "Paraguai",
+        "code": "PY"
+    },
+    {
+        "name": "Peru",
+        "code": "PE"
+    },
+    {
+        "name": "Filipinas",
+        "code": "PH"
+    },
+    {
+        "name": "Pitcairn",
+        "code": "PN"
+    },
+    {
+        "name": "Polônia",
+        "code": "PL"
+    },
+    {
+        "name": "Portugal",
+        "code": "PT"
+    },
+    {
+        "name": "Porto Rico",
+        "code": "PR"
+    },
+    {
+        "name": "Catar",
+        "code": "QA"
+    },
+    {
+        "name": "Reunião",
+        "code": "RE"
+    },
+    {
+        "name": "Romênia",
+        "code": "RO"
+    },
+    {
+        "name": "Federação Russa",
+        "code": "RU"
+    },
+    {
+        "name": "Ruanda",
+        "code": "RW"
+    },
+    {
+        "name": "Santa Helena, Ascensão e Tristão da Cunha",
+        "code": "SH"
+    },
+    {
+        "name": "São Cristóvão e Nevis",
+        "code": "KN"
+    },
+    {
+        "name": "Santa Lúcia",
+        "code": "LC"
+    },
+    {
+        "name": "São Pedro e Miquelon",
+        "code": "PM"
+    },
+    {
+        "name": "São Vicente e Granadinas",
+        "code": "VC"
+    },
+    {
+        "name": "Samoa",
+        "code": "WS"
+    },
+    {
+        "name": "San Marino",
+        "code": "SM"
+    },
+    {
+        "name": "São Tomé e Príncipe",
+        "code": "ST"
+    },
+    {
+        "name": "Arábia Saudita",
+        "code": "SA"
+    },
+    {
+        "name": "Senegal",
+        "code": "SN"
+    },
+    {
+        "name": "Sérvia",
+        "code": "RS"
+    },
+    {
+        "name": "Seicheles",
+        "code": "SC"
+    },
+    {
+        "name": "Serra Leoa",
+        "code": "SL"
+    },
+    {
+        "name": "Cingapura",
+        "code": "SG"
+    },
+    {
+        "name": "Sint Maarten",
+        "code": "SX"
+    },
+    {
+        "name": "Eslováquia",
+        "code": "SK"
+    },
+    {
+        "name": "Eslovênia",
+        "code": "SI"
+    },
+    {
+        "name": "Ilhas Salomão",
+        "code": "SB"
+    },
+    {
+        "name": "Somália",
+        "code": "SO"
+    },
+    {
+        "name": "África do Sul",
+        "code": "ZA"
+    },
+    {
+        "name": "Ilhas Geórgia do Sul e Sandwich do Sul",
+        "code": "GS"
+    },
+    {
+        "name": "Sudão do Sul",
+        "code": "SS"
+    },
+    {
+        "name": "Espanha",
+        "code": "ES"
+    },
+    {
+        "name": "Sri Lanka",
+        "code": "LK"
+    },
+    {
+        "name": "Sudão",
+        "code": "SD"
+    },
+    {
+        "name": "Suriname",
+        "code": "SR"
+    },
+    {
+        "name": "Svalbard e Jan Mayen",
+        "code": "SJ"
+    },
+    {
+        "name": "Suazilândia",
+        "code": "SZ"
+    },
+    {
+        "name": "Suécia",
+        "code": "SE"
+    },
+    {
+        "name": "Suíça",
+        "code": "CH"
+    },
+    {
+        "name": "República Árabe da Síria",
+        "code": "SY"
+    },
+    {
+        "name": "Taiwan, Província da China",
+        "code": "TW"
+    },
+    {
+        "name": "Tajiquistão",
+        "code": "TJ"
+    },
+    {
+        "name": "Tanzânia, República Unida da",
+        "code": "TZ"
+    },
+    {
+        "name": "Tailândia",
+        "code": "TH"
+    },
+    {
+        "name": "Timor-Leste",
+        "code": "TL"
+    },
+    {
+        "name": "Togo",
+        "code": "TG"
+    },
+    {
+        "name": "Toquelau",
+        "code": "TK"
+    },
+    {
+        "name": "Tonga",
+        "code": "TO"
+    },
+    {
+        "name": "Trinidad e Tobago",
+        "code": "TT"
+    },
+    {
+        "name": "Tunísia",
+        "code": "TN"
+    },
+    {
+        "name": "Turquia",
+        "code": "TR"
+    },
+    {
+        "name": "Turcomenistão",
+        "code": "TM"
+    },
+    {
+        "name": "Ilhas Turcas e Caicos",
+        "code": "TC"
+    },
+    {
+        "name": "Tuvalu",
+        "code": "TV"
+    },
+    {
+        "name": "Uganda",
+        "code": "UG"
+    },
+    {
+        "name": "Ucrânia",
+        "code": "UA"
+    },
+    {
+        "name": "Emirados Árabes Unidos",
+        "code": "AE"
+    },
+    {
+        "name": "Reino Unido",
+        "code": "GB"
+    },
+    {
+        "name": "Estados Unidos",
+        "code": "US",
+        "stateTerm": "Estado",
+        "stateTermKey": "camera_install_value_state",
+        "zipTerm": "CEP",
+        "zipTermKey": "camera_install_value_zip",
+        "zipIsOnlyNumbers": true,
+        "states": [
+            {
+                "timeZone": "Central",
+                "abbreviation": "AL",
+                "name": "Alabama"
+            },
+            {
+                "timeZone": "Alaska",
+                "abbreviation": "AK",
+                "name": "Alaska"
+            },
+            {
+                "timeZone": "Havaí",
+                "abbreviation": "AS",
+                "name": "Samoa Americana"
+            },
+            {
+                "timeZone": "Montanha",
+                "abbreviation": "AZ",
+                "name": "Arizona"
+            },
+            {
+                "timeZone": "Central",
+                "abbreviation": "AR",
+                "name": "Arkansas"
+            },
+            {
+                "timeZone": "Pacífico",
+                "abbreviation": "CA",
+                "name": "Califórnia"
+            },
+            {
+                "timeZone": "Montanha",
+                "abbreviation": "CO",
+                "name": "Colorado"
+            },
+            {
+                "timeZone": "Leste",
+                "abbreviation": "CT",
+                "name": "Connecticut"
+            },
+            {
+                "timeZone": "Leste",
+                "abbreviation": "DE",
+                "name": "Delaware"
+            },
+            {
+                "timeZone": "Leste",
+                "abbreviation": "DC",
+                "name": "Distrito de Colúmbia"
+            },
+            {
+                "timeZone": "Havaí",
+                "abbreviation": "FM",
+                "name": "Estados Federativos da Micronésia"
+            },
+            {
+                "timeZone": "Leste",
+                "abbreviation": "FL",
+                "name": "Flórida"
+            },
+            {
+                "timeZone": "Leste",
+                "abbreviation": "GA",
+                "name": "Geórgia"
+            },
+            {
+                "timeZone": "Havaí",
+                "abbreviation": "GU",
+                "name": "Guam"
+            },
+            {
+                "timeZone": "Havaí",
+                "abbreviation": "HI",
+                "name": "Havaí"
+            },
+            {
+                "timeZone": "Montanha",
+                "abbreviation": "ID",
+                "name": "Idaho"
+            },
+            {
+                "timeZone": "Central",
+                "abbreviation": "IL",
+                "name": "Illinois"
+            },
+            {
+                "timeZone": "Leste",
+                "abbreviation": "ENTRADA",
+                "name": "Indiana"
+            },
+            {
+                "timeZone": "Central",
+                "abbreviation": "IA",
+                "name": "Iowa"
+            },
+            {
+                "timeZone": "Central",
+                "abbreviation": "KS",
+                "name": "Kansas"
+            },
+            {
+                "timeZone": "Central",
+                "abbreviation": "KY",
+                "name": "Kentucky"
+            },
+            {
+                "timeZone": "Central",
+                "abbreviation": "LA",
+                "name": "Louisiana"
+            },
+            {
+                "timeZone": "Leste",
+                "abbreviation": "ME",
+                "name": "Maine"
+            },
+            {
+                "timeZone": "Havaí",
+                "abbreviation": "MH",
+                "name": "Ilhas Marshall"
+            },
+            {
+                "timeZone": "Leste",
+                "abbreviation": "MD",
+                "name": "Maryland"
+            },
+            {
+                "timeZone": "Leste",
+                "abbreviation": "MA",
+                "name": "Massachusetts"
+            },
+            {
+                "timeZone": "Leste",
+                "abbreviation": "MI",
+                "name": "Michigan"
+            },
+            {
+                "timeZone": "Central",
+                "abbreviation": "MN",
+                "name": "Minnesota"
+            },
+            {
+                "timeZone": "Central",
+                "abbreviation": "MS",
+                "name": "Mississippi"
+            },
+            {
+                "timeZone": "Central",
+                "abbreviation": "MO",
+                "name": "Missouri"
+            },
+            {
+                "timeZone": "Montanha",
+                "abbreviation": "MT",
+                "name": "Montana"
+            },
+            {
+                "timeZone": "Central",
+                "abbreviation": "NE",
+                "name": "Nebraska"
+            },
+            {
+                "timeZone": "Pacífico",
+                "abbreviation": "NV",
+                "name": "Nevada"
+            },
+            {
+                "timeZone": "Leste",
+                "abbreviation": "NH",
+                "name": "New Hampshire"
+            },
+            {
+                "timeZone": "Leste",
+                "abbreviation": "NJ",
+                "name": "Nova Jérsei"
+            },
+            {
+                "timeZone": "Montanha",
+                "abbreviation": "NM",
+                "name": "Novo México"
+            },
+            {
+                "timeZone": "Leste",
+                "abbreviation": "NY",
+                "name": "Nova Iorque"
+            },
+            {
+                "timeZone": "Leste",
+                "abbreviation": "NF",
+                "name": "Carolina do Norte"
+            },
+            {
+                "timeZone": "Central",
+                "abbreviation": "ND",
+                "name": "Dakota do Norte"
+            },
+            {
+                "timeZone": "Havaí",
+                "abbreviation": "MP",
+                "name": "Ilhas Mariana do Norte"
+            },
+            {
+                "timeZone": "Leste",
+                "abbreviation": "OH",
+                "name": "Ohio"
+            },
+            {
+                "timeZone": "Central",
+                "abbreviation": "OK",
+                "name": "Oklahoma"
+            },
+            {
+                "timeZone": "Pacífico",
+                "abbreviation": "OU",
+                "name": "Oregon"
+            },
+            {
+                "timeZone": "Havaí",
+                "abbreviation": "PW",
+                "name": "Palau"
+            },
+            {
+                "timeZone": "Leste",
+                "abbreviation": "PA",
+                "name": "Pennsylvania"
+            },
+            {
+                "timeZone": "Atlântico",
+                "abbreviation": "PR",
+                "name": "Porto Rico"
+            },
+            {
+                "timeZone": "Leste",
+                "abbreviation": "RI",
+                "name": "Rhode Island"
+            },
+            {
+                "timeZone": "Leste",
+                "abbreviation": "SC",
+                "name": "Carolina do Sul"
+            },
+            {
+                "timeZone": "Central",
+                "abbreviation": "SD",
+                "name": "Dakota do Sul"
+            },
+            {
+                "timeZone": "Central",
+                "abbreviation": "TN",
+                "name": "Tennessee"
+            },
+            {
+                "timeZone": "Central",
+                "abbreviation": "TX",
+                "name": "Texas"
+            },
+            {
+                "timeZone": "Montanha",
+                "abbreviation": "UT",
+                "name": "Utah"
+            },
+            {
+                "timeZone": "Leste",
+                "abbreviation": "VT",
+                "name": "Vermont"
+            },
+            {
+                "timeZone": "Atlântico",
+                "abbreviation": "VI",
+                "name": "Ilhas Virgens"
+            },
+            {
+                "timeZone": "Leste",
+                "abbreviation": "VA",
+                "name": "Virginia"
+            },
+            {
+                "timeZone": "Pacífico",
+                "abbreviation": "WA",
+                "name": "Washington"
+            },
+            {
+                "timeZone": "Leste",
+                "abbreviation": "WV",
+                "name": "West Virginia"
+            },
+            {
+                "timeZone": "Central",
+                "abbreviation": "WI",
+                "name": "Wisconsin"
+            },
+            {
+                "timeZone": "Montanha",
+                "abbreviation": "WY",
+                "name": "Wyoming"
+            }
+        ]
+    },
+    {
+        "name": "Ilhas Menores Distantes, EUA",
+        "code": "UM"
+    },
+    {
+        "name": "Uruguai",
+        "code": "UY"
+    },
+    {
+        "name": "Uzbequistão",
+        "code": "UZ"
+    },
+    {
+        "name": "Vanuatu",
+        "code": "VU"
+    },
+    {
+        "name": "Venezuela",
+        "code": "VE"
+    },
+    {
+        "name": "Vietnã",
+        "code": "VN"
+    },
+    {
+        "name": "Ilhas Virgens, Britânicas",
+        "code": "VG"
+    },
+    {
+        "name": "Ilhas Virgens, EUA",
+        "code": "VI"
+    },
+    {
+        "name": "Wallis e Futuna",
+        "code": "WF"
+    },
+    {
+        "name": "Saara Ocidental",
+        "code": "EH"
+    },
+    {
+        "name": "Iêmen",
+        "code": "YE"
+    },
+    {
+        "name": "Zâmbia",
+        "code": "ZM"
+    },
+    {
+        "name": "Zimbábue",
+        "code": "ZW"
+    }
+]

@@ -1,0 +1,1361 @@
+ [{
+  "name": "Afganisztán",
+  "code": "AF"
+  },
+  {
+  "name": "Åland-szigetek",
+  "code": "AX"
+  },
+  {
+  "name": "Albánia",
+  "code": "AL"
+  },
+  {
+  "name": "Algéria",
+  "code": "DZ"
+  },
+  {
+  "name": "Amerikai Szamoa",
+  "code": "AS"
+  },
+  {
+  "name": "Andorra",
+  "code": "AD"
+  },
+  {
+  "name": "Angola",
+  "code": "AO"
+  },
+  {
+  "name": "Anguilla",
+  "code": "AI"
+  },
+  {
+  "name": "Antarktika",
+  "code": "AQ"
+  },
+  {
+  "name": "Antigua és Barbuda",
+  "code": "AG"
+  },
+  {
+  "name": "Argentína",
+  "code": "AR"
+  },
+  {
+  "name": "Örményország",
+  "code": "AM"
+  },
+  {
+  "name": "Aruba",
+  "code": "AW"
+  },
+  {
+  "name": "Ausztrália",
+  "code": "AU"
+  },
+  {
+  "name": "Ausztria",
+  "code": "AT"
+  },
+  {
+  "name": "Azerbajdzsán",
+  "code": "AZ"
+  },
+  {
+  "name": "Bahama-szigetek",
+  "code": "BS"
+  },
+  {
+  "name": "Bahrein",
+  "code": "BH"
+  },
+  {
+  "name": "Bangladesh",
+  "code": "BD"
+  },
+  {
+  "name": "Barbados",
+  "code": "BB"
+  },
+  {
+  "name": "Fehéroroszország",
+  "code": "BY"
+  },
+  {
+  "name": "Belgium",
+  "code": "BE"
+  },
+  {
+  "name": "Belize",
+  "code": "BZ"
+  },
+  {
+  "name": "Benin",
+  "code": "BJ"
+  },
+  {
+  "name": "Bermuda",
+  "code": "BM"
+  },
+  {
+  "name": "Bhután",
+  "code": "BT"
+  },
+  {
+  "name": "Bolívia",
+  "code": "BO"
+  },
+  {
+  "name": "Bosznia-Hercegovina",
+  "code": "BA"
+  },
+  {
+  "name": "Botswana",
+  "code": "BW"
+  },
+  {
+  "name": "Bouvet-sziget",
+  "code": "BV"
+  },
+  {
+  "name": "Brazília",
+  "code": "BR"
+  },
+  {
+  "name": "Brit Indiai-óceáni Terület",
+  "code": "IO"
+  },
+  {
+  "name": "Brunei",
+  "code": "BN"
+  },
+  {
+  "name": "Bulgária",
+  "code": "BG"
+  },
+  {
+  "name": "Burkina Faso",
+  "code": "BF"
+  },
+  {
+  "name": "Burundi",
+  "code": "BI"
+  },
+  {
+  "name": "Kambodzsa",
+  "code": "KH"
+  },
+  {
+  "name": "Kamerun",
+  "code": "CM"
+  },
+  {
+  "name": "Kanada",
+  "code": "CA",
+  "stateTerm": "Megye",
+  "stateTermKey": "camera_install_value_province",
+  "zipTerm": "Irányítószám",
+  "zipTermKey": "camera_install_value_postal",
+  "zipIsOnlyNumbers": false,
+  "states": [{
+             "timeZone": "Hegyi idő",
+             "abbreviation": "AB",
+             "name": "Alberta"
+             },
+             {
+             "timeZone": "Csendes-óceáni idő",
+             "abbreviation": "BC",
+             "name": "Brit Columbia"
+             },
+             {
+             "timeZone": "Amerikai középidő",
+             "abbreviation": "MB",
+             "name": "Manitoba"
+             },
+             {
+             "timeZone": "Atlanti-óceáni idő",
+             "abbreviation": "NB",
+             "name": "Új-Brunswick"
+             },
+             {
+             "timeZone": "Új-Fundland",
+             "abbreviation": "NL",
+             "name": "Új-Fundland és Labrador"
+             },
+             {
+             "timeZone": "Hegyi idő",
+             "abbreviation": "NT",
+             "name": "Északnyugati területek"
+             },
+             {
+             "timeZone": "Atlanti-óceáni idő",
+             "abbreviation": "NS",
+             "name": "Új-Skócia"
+             },
+             {
+             "timeZone": "Amerikai középidő",
+             "abbreviation": "NU",
+             "name": "Nunavut"
+             },
+             {
+             "timeZone": "Keleti idő",
+             "abbreviation": "ON",
+             "name": "Ontario"
+             },
+             {
+             "timeZone": "Atlanti-óceáni idő",
+             "abbreviation": "PE",
+             "name": "Prince Edward-sziget"
+             },
+             {
+             "timeZone": "Keleti idő",
+             "abbreviation": "QC",
+             "name": "Quebec"
+             },
+             {
+             "timeZone": "Amerikai középidő",
+             "abbreviation": "SK",
+             "name": "Saskatchewan"
+             },
+             {
+             "timeZone": "Csendes-óceáni idő",
+             "abbreviation": "YT",
+             "name": "Yukon"
+             }
+             ]
+  },
+  {
+  "name": "Zöld-foki Köztársaság",
+  "code": "CV"
+  },
+  {
+  "name": "Kajmán-szigetek",
+  "code": "KY"
+  },
+  {
+  "name": "Közép-afrikai Köztársaság",
+  "code": "CF"
+  },
+  {
+  "name": "Csád",
+  "code": "TD"
+  },
+  {
+  "name": "Chile",
+  "code": "CL"
+  },
+  {
+  "name": "Kína",
+  "code": "CN"
+  },
+  {
+  "name": "Karácsony-sziget",
+  "code": "CX"
+  },
+  {
+  "name": "Kókusz (Keeling)-szigetek",
+  "code": "CC"
+  },
+  {
+  "name": "Kolumbia",
+  "code": "CO"
+  },
+  {
+  "name": "Comore-szigetek",
+  "code": "KM"
+  },
+  {
+  "name": "Kongó",
+  "code": "CG"
+  },
+  {
+  "name": "Kongói Demokratikus Köztársaság",
+  "code": "CD"
+  },
+  {
+  "name": "Cook-szigetek",
+  "code": "CK"
+  },
+  {
+  "name": "Costa Rica",
+  "code": "CR"
+  },
+  {
+  "name": "Elefántcsontpart",
+  "code": "CI"
+  },
+  {
+  "name": "Horvátország",
+  "code": "HR"
+  },
+  {
+  "name": "Kuba",
+  "code": "CU"
+  },
+  {
+  "name": "Curaçao",
+  "code": "CW"
+  },
+  {
+  "name": "Ciprus",
+  "code": "CY"
+  },
+  {
+  "name": "Csehország",
+  "code": "CZ"
+  },
+  {
+  "name": "Dánia",
+  "code": "DK"
+  },
+  {
+  "name": "Dzsibuti",
+  "code": "DJ"
+  },
+  {
+  "name": "Dominikai Közösség",
+  "code": "DM"
+  },
+  {
+  "name": "Dominikai Köztársaság",
+  "code": "DO"
+  },
+  {
+  "name": "Ecuador",
+  "code": "EC"
+  },
+  {
+  "name": "Egyiptom",
+  "code": "EG"
+  },
+  {
+  "name": "Salvador",
+  "code": "SV"
+  },
+  {
+  "name": "Egyenlítői-Guinea",
+  "code": "GQ"
+  },
+  {
+  "name": "Eritrea",
+  "code": "ER"
+  },
+  {
+  "name": "Észtország",
+  "code": "EE"
+  },
+  {
+  "name": "Etiópia",
+  "code": "ET"
+  },
+  {
+  "name": "Falkland-szigetek",
+  "code": "FK"
+  },
+  {
+  "name": "Feröer",
+  "code": "FO"
+  },
+  {
+  "name": "Fidzsi-szigetek",
+  "code": "FJ"
+  },
+  {
+  "name": "Finnország",
+  "code": "FI"
+  },
+  {
+  "name": "Franciaország",
+  "code": "FR"
+  },
+  {
+  "name": "Francia Guyana",
+  "code": "GF"
+  },
+  {
+  "name": "Francia Polinézia",
+  "code": "PF"
+  },
+  {
+  "name": "Francia déli területek",
+  "code": "TF"
+  },
+  {
+  "name": "Gabon",
+  "code": "GA"
+  },
+  {
+  "name": "Gambia",
+  "code": "GM"
+  },
+  {
+  "name": "Grúzia",
+  "code": "GE"
+  },
+  {
+  "name": "Németország",
+  "code": "DE"
+  },
+  {
+  "name": "Ghána",
+  "code": "GH"
+  },
+  {
+  "name": "Gibraltár",
+  "code": "GI"
+  },
+  {
+  "name": "Görögország",
+  "code": "GR"
+  },
+  {
+  "name": "Grönland",
+  "code": "GL"
+  },
+  {
+  "name": "Grenada",
+  "code": "GD"
+  },
+  {
+  "name": "Guadeloupe",
+  "code": "GP"
+  },
+  {
+  "name": "Guam",
+  "code": "GU"
+  },
+  {
+  "name": "Guatemala",
+  "code": "GT"
+  },
+  {
+  "name": "Guernsey",
+  "code": "GG"
+  },
+  {
+  "name": "Guinea",
+  "code": "GN"
+  },
+  {
+  "name": "Bissau-Guinea",
+  "code": "GW"
+  },
+  {
+  "name": "Guyana",
+  "code": "GY"
+  },
+  {
+  "name": "Haiti",
+  "code": "HT"
+  },
+  {
+  "name": "Heard-sziget és McDonald-szigetek",
+  "code": "HM"
+  },
+  {
+  "name": "Vatikánvárosi Állam",
+  "code": "VA"
+  },
+  {
+  "name": "Honduras",
+  "code": "HN"
+  },
+  {
+  "name": "Hongkong",
+  "code": "HK"
+  },
+  {
+  "name": "Magyarország",
+  "code": "HU"
+  },
+  {
+  "name": "Izland",
+  "code": "IS"
+  },
+  {
+  "name": "India",
+  "code": "IN"
+  },
+  {
+  "name": "Indonézia",
+  "code": "ID"
+  },
+  {
+  "name": "Iráni Iszlám Köztársaság",
+  "code": "IR"
+  },
+  {
+  "name": "Irak",
+  "code": "IQ"
+  },
+  {
+  "name": "Írország",
+  "code": "IE"
+  },
+  {
+  "name": "Man-sziget",
+  "code": "IM"
+  },
+  {
+  "name": "Izrael",
+  "code": "IL"
+  },
+  {
+  "name": "Olaszország",
+  "code": "IT"
+  },
+  {
+  "name": "Jamaica",
+  "code": "JM"
+  },
+  {
+  "name": "Japán",
+  "code": "JP"
+  },
+  {
+  "name": "Jersey",
+  "code": "JE"
+  },
+  {
+  "name": "Jordánia",
+  "code": "JO"
+  },
+  {
+  "name": "Kazahsztán",
+  "code": "KZ"
+  },
+  {
+  "name": "Kenya",
+  "code": "KE"
+  },
+  {
+  "name": "Kiribati",
+  "code": "KI"
+  },
+  {
+  "name": "Koreai Népi Demokratikus Köztársaság",
+  "code": "KP"
+  },
+  {
+  "name": "Koreai Köztársaság",
+  "code": "KR"
+  },
+  {
+  "name": "Kuvait",
+  "code": "KW"
+  },
+  {
+  "name": "Kirgizisztán",
+  "code": "KG"
+  },
+  {
+  "name": "Laosz",
+  "code": "LA"
+  },
+  {
+  "name": "Lettország",
+  "code": "LV"
+  },
+  {
+  "name": "Libanon",
+  "code": "LB"
+  },
+  {
+  "name": "Lesotho",
+  "code": "LS"
+  },
+  {
+  "name": "Libéria",
+  "code": "LR"
+  },
+  {
+  "name": "Líbia",
+  "code": "LY"
+  },
+  {
+  "name": "Liechtenstein",
+  "code": "LI"
+  },
+  {
+  "name": "Litvánia",
+  "code": "LT"
+  },
+  {
+  "name": "Luxemburg",
+  "code": "LU"
+  },
+  {
+  "name": "Macao",
+  "code": "MO"
+  },
+  {
+  "name": "Macedónia Volt Jugoszláv Köztársaság",
+  "code": "MK"
+  },
+  {
+  "name": "Madagaszkár",
+  "code": "MG"
+  },
+  {
+  "name": "Malawi",
+  "code": "MW"
+  },
+  {
+  "name": "Malajzia",
+  "code": "MY"
+  },
+  {
+  "name": "Maldív-szigetek",
+  "code": "MV"
+  },
+  {
+  "name": "Mali",
+  "code": "ML"
+  },
+  {
+  "name": "Málta",
+  "code": "MT"
+  },
+  {
+  "name": "Marshall-szigetek",
+  "code": "MH"
+  },
+  {
+  "name": "Martinique",
+  "code": "MQ"
+  },
+  {
+  "name": "Mauritánia",
+  "code": "MR"
+  },
+  {
+  "name": "Mauritius",
+  "code": "MU"
+  },
+  {
+  "name": "Mayotte",
+  "code": "YT"
+  },
+  {
+  "name": "Mexikó",
+  "code": "MX"
+  },
+  {
+  "name": "Mikronéziai Szövetségi Államok",
+  "code": "FM"
+  },
+  {
+  "name": "Moldovai Köztársaság",
+  "code": "MD"
+  },
+  {
+  "name": "Monaco",
+  "code": "MC"
+  },
+  {
+  "name": "Mongólia",
+  "code": "MN"
+  },
+  {
+  "name": "Montenegró",
+  "code": "ME"
+  },
+  {
+  "name": "Montserrat",
+  "code": "MS"
+  },
+  {
+  "name": "Marokkó",
+  "code": "MA"
+  },
+  {
+  "name": "Mozambik",
+  "code": "MZ"
+  },
+  {
+  "name": "Mianmar",
+  "code": "MM"
+  },
+  {
+  "name": "Namíbia",
+  "code": "NA"
+  },
+  {
+  "name": "Nauru",
+  "code": "NR"
+  },
+  {
+  "name": "Nepál",
+  "code": "NP"
+  },
+  {
+  "name": "Hollandia",
+  "code": "NL"
+  },
+  {
+  "name": "Holland Antillák",
+  "code": "AN"
+  },
+  {
+  "name": "Új-Kaledónia",
+  "code": "NC"
+  },
+  {
+  "name": "Új-Zéland",
+  "code": "NZ"
+  },
+  {
+  "name": "Nicaragua",
+  "code": "NI"
+  },
+  {
+  "name": "Niger",
+  "code": "NE"
+  },
+  {
+  "name": "Nigéria",
+  "code": "NG"
+  },
+  {
+  "name": "Niue",
+  "code": "NU"
+  },
+  {
+  "name": "Norfolk-sziget",
+  "code": "NF"
+  },
+  {
+  "name": "Északi-Mariana-szigetek",
+  "code": "MP"
+  },
+  {
+  "name": "Norvégia",
+  "code": "NO"
+  },
+  {
+  "name": "Omán",
+  "code": "OM"
+  },
+  {
+  "name": "Pakisztán",
+  "code": "PK"
+  },
+  {
+  "name": "Palau",
+  "code": "PW"
+  },
+  {
+  "name": "Palesztin Autonóm Területek",
+  "code": "PS"
+  },
+  {
+  "name": "Panama",
+  "code": "PA"
+  },
+  {
+  "name": "Pápua Új-Guinea",
+  "code": "PG"
+  },
+  {
+  "name": "Paraguay",
+  "code": "PY"
+  },
+  {
+  "name": "Peru",
+  "code": "PE"
+  },
+  {
+  "name": "Fülöp-szigetek",
+  "code": "PH"
+  },
+  {
+  "name": "Pitcairn",
+  "code": "PN"
+  },
+  {
+  "name": "Lengyelország",
+  "code": "PL"
+  },
+  {
+  "name": "Portugália",
+  "code": "PT"
+  },
+  {
+  "name": "Puerto Rico",
+  "code": "PR"
+  },
+  {
+  "name": "Katar",
+  "code": "QA"
+  },
+  {
+  "name": "Réunion",
+  "code": "RE"
+  },
+  {
+  "name": "Románia",
+  "code": "RO"
+  },
+  {
+  "name": "Orosz Föderáció",
+  "code": "RU"
+  },
+  {
+  "name": "Rwanda",
+  "code": "RW"
+  },
+  {
+  "name": "Szent Ilona, Ascension és Tristan da Cunha",
+  "code": "SH"
+  },
+  {
+  "name": "Saint Kitts és Nevis",
+  "code": "KN"
+  },
+  {
+  "name": "Saint Lucia",
+  "code": "LC"
+  },
+  {
+  "name": "Saint Pierre és Miquelon",
+  "code": "PM"
+  },
+  {
+  "name": "Saint Vincent és a Grenadine-szigetek",
+  "code": "VC"
+  },
+  {
+  "name": "Szamoa",
+  "code": "WS"
+  },
+  {
+  "name": "San Marino",
+  "code": "SM"
+  },
+  {
+  "name": "São Tomé és Príncipe",
+  "code": "ST"
+  },
+  {
+  "name": "Szaúd-Arábia",
+  "code": "SA"
+  },
+  {
+  "name": "Szenegál",
+  "code": "SN"
+  },
+  {
+  "name": "Szerbia",
+  "code": "RS"
+  },
+  {
+  "name": "Seychelle-szigetek",
+  "code": "SC"
+  },
+  {
+  "name": "Sierra Leone",
+  "code": "SL"
+  },
+  {
+  "name": "Szingapúr",
+  "code": "SG"
+  },
+  {
+  "name": "Szent Márton-sziget",
+  "code": "SX"
+  },
+  {
+  "name": "Szlovákia",
+  "code": "SK"
+  },
+  {
+  "name": "Szlovénia",
+  "code": "SI"
+  },
+  {
+  "name": "Salamon-szigetek",
+  "code": "SB"
+  },
+  {
+  "name": "Szomália",
+  "code": "SO"
+  },
+  {
+  "name": "Dél-Afrika",
+  "code": "ZA"
+  },
+  {
+  "name": "Déli-Georgia és Déli-Sandwich-szigetek",
+  "code": "GS"
+  },
+  {
+  "name": "Dél-Szudán",
+  "code": "SS"
+  },
+  {
+  "name": "Spanyolország",
+  "code": "ES"
+  },
+  {
+  "name": "Srí Lanka",
+  "code": "LK"
+  },
+  {
+  "name": "Szudán",
+  "code": "SD"
+  },
+  {
+  "name": "Suriname",
+  "code": "SR"
+  },
+  {
+  "name": "Svalbard és Jan Mayen",
+  "code": "SJ"
+  },
+  {
+  "name": "Szváziföld",
+  "code": "SZ"
+  },
+  {
+  "name": "Svédország",
+  "code": "SE"
+  },
+  {
+  "name": "Svájc",
+  "code": "CH"
+  },
+  {
+  "name": "Szíriai Arab Köztársaság",
+  "code": "SY"
+  },
+  {
+  "name": "Tajvan",
+  "code": "TW"
+  },
+  {
+  "name": "Tádzsikisztán",
+  "code": "TJ"
+  },
+  {
+  "name": "Tanzániai Egyesült Köztársaság",
+  "code": "TZ"
+  },
+  {
+  "name": "Thaiföld",
+  "code": "TH"
+  },
+  {
+  "name": "Timor-Leste",
+  "code": "TL"
+  },
+  {
+  "name": "Togo",
+  "code": "TG"
+  },
+  {
+  "name": "Tokelau",
+  "code": "TK"
+  },
+  {
+  "name": "Tonga",
+  "code": "TO"
+  },
+  {
+  "name": "Trinidad és Tobago",
+  "code": "TT"
+  },
+  {
+  "name": "Tunézia",
+  "code": "TN"
+  },
+  {
+  "name": "Törökország",
+  "code": "TR"
+  },
+  {
+  "name": "Türkmenisztán",
+  "code": "TM"
+  },
+  {
+  "name": "Turks- és Caicos-szigetek",
+  "code": "TC"
+  },
+  {
+  "name": "Tuvalu",
+  "code": "TV"
+  },
+  {
+  "name": "Uganda",
+  "code": "UG"
+  },
+  {
+  "name": "Ukrajna",
+  "code": "UA"
+  },
+  {
+  "name": "Egyesült Arab Emírségek",
+  "code": "AE"
+  },
+  {
+  "name": "Egyesült Királyság",
+  "code": "GB"
+  },
+  {
+  "name": "Egyesült Államok",
+  "code": "US",
+  "stateTerm": "Állam",
+  "stateTermKey": "camera_install_value_state",
+  "zipTerm": "Irányítószám",
+  "zipTermKey": "camera_install_value_zip",
+  "zipIsOnlyNumbers": true,
+  "states": [{
+             "timeZone": "Amerikai középidő",
+             "abbreviation": "AL",
+             "name": "Alabama"
+             },
+             {
+             "timeZone": "Alaszka",
+             "abbreviation": "AK",
+             "name": "Alaszka"
+             },
+             {
+             "timeZone": "Hawaii",
+             "abbreviation": "AS",
+             "name": "Amerikai Szamoa"
+             },
+             {
+             "timeZone": "Hegyi idő",
+             "abbreviation": "AZ",
+             "name": "Arizona"
+             },
+             {
+             "timeZone": "Amerikai középidő",
+             "abbreviation": "AR",
+             "name": "Arkansas"
+             },
+             {
+             "timeZone": "Csendes-óceáni idő",
+             "abbreviation": "CA",
+             "name": "Kalifornia"
+             },
+             {
+             "timeZone": "Hegyi idő",
+             "abbreviation": "CO",
+             "name": "Colorado"
+             },
+             {
+             "timeZone": "Keleti idő",
+             "abbreviation": "CT",
+             "name": "Connecticut"
+             },
+             {
+             "timeZone": "Keleti idő",
+             "abbreviation": "DE",
+             "name": "Delaware"
+             },
+             {
+             "timeZone": "Keleti idő",
+             "abbreviation": "DC",
+             "name": "Washington"
+             },
+             {
+             "timeZone": "Hawaii",
+             "abbreviation": "FM",
+             "name": "Mikronéziai Szövetségi Államok"
+             },
+             {
+             "timeZone": "Keleti idő",
+             "abbreviation": "FL",
+             "name": "Florida"
+             },
+             {
+             "timeZone": "Keleti idő",
+             "abbreviation": "GA",
+             "name": "Grúzia"
+             },
+             {
+             "timeZone": "Hawaii",
+             "abbreviation": "GU",
+             "name": "Guam"
+             },
+             {
+             "timeZone": "Hawaii",
+             "abbreviation": "HI",
+             "name": "Hawaii"
+             },
+             {
+             "timeZone": "Hegyi idő",
+             "abbreviation": "ID",
+             "name": "Idaho"
+             },
+             {
+             "timeZone": "Amerikai középidő",
+             "abbreviation": "IL",
+             "name": "Illinois"
+             },
+             {
+             "timeZone": "Keleti idő",
+             "abbreviation": "IN",
+             "name": "Indiana"
+             },
+             {
+             "timeZone": "Amerikai középidő",
+             "abbreviation": "IA",
+             "name": "Iowa"
+             },
+             {
+             "timeZone": "Amerikai középidő",
+             "abbreviation": "KS",
+             "name": "Kansas"
+             },
+             {
+             "timeZone": "Amerikai középidő",
+             "abbreviation": "KY",
+             "name": "Kentucky"
+             },
+             {
+             "timeZone": "Amerikai középidő",
+             "abbreviation": "LA",
+             "name": "Louisiana"
+             },
+             {
+             "timeZone": "Keleti idő",
+             "abbreviation": "ME",
+             "name": "Maine"
+             },
+             {
+             "timeZone": "Hawaii",
+             "abbreviation": "MH",
+             "name": "Marshall-szigetek"
+             },
+             {
+             "timeZone": "Keleti idő",
+             "abbreviation": "MD",
+             "name": "Maryland"
+             },
+             {
+             "timeZone": "Keleti idő",
+             "abbreviation": "MA",
+             "name": "Massachusetts"
+             },
+             {
+             "timeZone": "Keleti idő",
+             "abbreviation": "MI",
+             "name": "Michigan"
+             },
+             {
+             "timeZone": "Amerikai középidő",
+             "abbreviation": "MN",
+             "name": "Minnesota"
+             },
+             {
+             "timeZone": "Amerikai középidő",
+             "abbreviation": "MS",
+             "name": "Mississippi"
+             },
+             {
+             "timeZone": "Amerikai középidő",
+             "abbreviation": "MO",
+             "name": "Missouri"
+             },
+             {
+             "timeZone": "Hegyi idő",
+             "abbreviation": "MT",
+             "name": "Montana"
+             },
+             {
+             "timeZone": "Amerikai középidő",
+             "abbreviation": "NE",
+             "name": "Nebraska"
+             },
+             {
+             "timeZone": "Csendes-óceáni idő",
+             "abbreviation": "NV",
+             "name": "Nevada"
+             },
+             {
+             "timeZone": "Keleti idő",
+             "abbreviation": "NH",
+             "name": "New Hampshire"
+             },
+             {
+             "timeZone": "Keleti idő",
+             "abbreviation": "NJ",
+             "name": "New Jersey"
+             },
+             {
+             "timeZone": "Hegyi idő",
+             "abbreviation": "NM",
+             "name": "Új-Mexikó"
+             },
+             {
+             "timeZone": "Keleti idő",
+             "abbreviation": "NY",
+             "name": "New York"
+             },
+             {
+             "timeZone": "Keleti idő",
+             "abbreviation": "NC",
+             "name": "Észak-Karolina"
+             },
+             {
+             "timeZone": "Amerikai középidő",
+             "abbreviation": "ND",
+             "name": "Észak-Dakota"
+             },
+             {
+             "timeZone": "Hawaii",
+             "abbreviation": "MP",
+             "name": "Északi-Mariana-szigetek"
+             },
+             {
+             "timeZone": "Keleti idő",
+             "abbreviation": "OH",
+             "name": "Ohio"
+             },
+             {
+             "timeZone": "Amerikai középidő",
+             "abbreviation": "OK",
+             "name": "Oklahoma"
+             },
+             {
+             "timeZone": "Csendes-óceáni idő",
+             "abbreviation": "OR",
+             "name": "Oregon"
+             },
+             {
+             "timeZone": "Hawaii",
+             "abbreviation": "PW",
+             "name": "Palau"
+             },
+             {
+             "timeZone": "Keleti idő",
+             "abbreviation": "PA",
+             "name": "Pennsylvania"
+             },
+             {
+             "timeZone": "Atlanti-óceáni idő",
+             "abbreviation": "PR",
+             "name": "Puerto Rico"
+             },
+             {
+             "timeZone": "Keleti idő",
+             "abbreviation": "RI",
+             "name": "Rhode Island"
+             },
+             {
+             "timeZone": "Keleti idő",
+             "abbreviation": "SC",
+             "name": "Dél-Karolina"
+             },
+             {
+             "timeZone": "Amerikai középidő",
+             "abbreviation": "SD",
+             "name": "Dél-Dakota"
+             },
+             {
+             "timeZone": "Amerikai középidő",
+             "abbreviation": "TN",
+             "name": "Tennessee"
+             },
+             {
+             "timeZone": "Amerikai középidő",
+             "abbreviation": "TX",
+             "name": "Texas"
+             },
+             {
+             "timeZone": "Hegyi idő",
+             "abbreviation": "UT",
+             "name": "Utah"
+             },
+             {
+             "timeZone": "Keleti idő",
+             "abbreviation": "VT",
+             "name": "Vermont"
+             },
+             {
+             "timeZone": "Atlanti-óceáni idő",
+             "abbreviation": "VI",
+             "name": "Virgin-szigetek"
+             },
+             {
+             "timeZone": "Keleti idő",
+             "abbreviation": "VA",
+             "name": "Virginia"
+             },
+             {
+             "timeZone": "Csendes-óceáni idő",
+             "abbreviation": "WA",
+             "name": "Washington"
+             },
+             {
+             "timeZone": "Keleti idő",
+             "abbreviation": "WV",
+             "name": "Nyugat-Virginia"
+             },
+             {
+             "timeZone": "Amerikai középidő",
+             "abbreviation": "WI",
+             "name": "Wisconsin"
+             },
+             {
+             "timeZone": "Hegyi idő",
+             "abbreviation": "WY",
+             "name": "Wyoming"
+             }
+             ]
+  },
+  {
+  "name": "Az Amerikai Egyesült Államok lakatlan külbirtokai",
+  "code": "UM"
+  },
+  {
+  "name": "Uruguay",
+  "code": "UY"
+  },
+  {
+  "name": "Üzbegisztán",
+  "code": "UZ"
+  },
+  {
+  "name": "Vanuatu",
+  "code": "VU"
+  },
+  {
+  "name": "Venezuela",
+  "code": "VE"
+  },
+  {
+  "name": "Vietnám",
+  "code": "VN"
+  },
+  {
+  "name": "Brit Virgin-szigetek",
+  "code": "VG"
+  },
+  {
+  "name": "Amerikai Virgin-szigetek",
+  "code": "VI"
+  },
+  {
+  "name": "Wallis és Futuna",
+  "code": "WF"
+  },
+  {
+  "name": "Nyugat-Szahara",
+  "code": "EH"
+  },
+  {
+  "name": "Jemen",
+  "code": "YE"
+  },
+  {
+  "name": "Zambia",
+  "code": "ZM"
+  },
+  {
+  "name": "Zimbabwe",
+  "code": "ZW"
+  }
+  ]

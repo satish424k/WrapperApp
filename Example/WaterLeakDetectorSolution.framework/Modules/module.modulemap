@@ -1,0 +1,11 @@
+framework module WaterLeakDetectorSolution {
+  umbrella header "WaterLeakDetectorSolution-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module WaterLeakDetectorSolution.Swift {
+    header "WaterLeakDetectorSolution-Swift.h"
+    requires objc
+}

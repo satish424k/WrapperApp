@@ -1,0 +1,11 @@
+framework module GraniteFramework {
+  umbrella header "GraniteFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module GraniteFramework.Swift {
+    header "GraniteFramework-Swift.h"
+    requires objc
+}

@@ -1,0 +1,1364 @@
+[
+ {
+ "name":"Afghánistán",
+ "code":"AF"
+ },
+ {
+ "name":"Ålandy",
+ "code":"AX"
+ },
+ {
+ "name":"Albánie",
+ "code":"AL"
+ },
+ {
+ "name":"Alžírsko",
+ "code":"DZ"
+ },
+ {
+ "name":"Americká Samoa",
+ "code":"AS"
+ },
+ {
+ "name":"Andorra",
+ "code":"AD"
+ },
+ {
+ "name":"Angola",
+ "code":"AO"
+ },
+ {
+ "name":"Anguilla",
+ "code":"AI"
+ },
+ {
+ "name":"Antarktida",
+ "code":"AQ"
+ },
+ {
+ "name":"Antigua a Barbuda",
+ "code":"AG"
+ },
+ {
+ "name":"Argentina",
+ "code":"AR"
+ },
+ {
+ "name":"Arménie",
+ "code":"AM"
+ },
+ {
+ "name":"Aruba",
+ "code":"AW"
+ },
+ {
+ "name":"Austrálie",
+ "code":"AU"
+ },
+ {
+ "name":"Rakousko",
+ "code":"AT"
+ },
+ {
+ "name":"Ázerbájdžán",
+ "code":"AZ"
+ },
+ {
+ "name":"Bahamy",
+ "code":"BS"
+ },
+ {
+ "name":"Bahrajn",
+ "code":"BH"
+ },
+ {
+ "name":"Bangladéš",
+ "code":"BD"
+ },
+ {
+ "name":"Barbados",
+ "code":"BB"
+ },
+ {
+ "name":"Bělorusko",
+ "code":"BY"
+ },
+ {
+ "name":"Belgie",
+ "code":"BE"
+ },
+ {
+ "name":"Belize",
+ "code":"BZ"
+ },
+ {
+ "name":"Benin",
+ "code":"BJ"
+ },
+ {
+ "name":"Bermudy",
+ "code":"BM"
+ },
+ {
+ "name":"Bhútán",
+ "code":"BT"
+ },
+ {
+ "name":"Bolívie",
+ "code":"BO"
+ },
+ {
+ "name":"Bosna a Hercegovina",
+ "code":"BA"
+ },
+ {
+ "name":"Botswana",
+ "code":"BW"
+ },
+ {
+ "name":"Bouvetův ostrov",
+ "code":"BV"
+ },
+ {
+ "name":"Brazílie",
+ "code":"BR"
+ },
+ {
+ "name":"Britské indickooceánské území",
+ "code":"IO"
+ },
+ {
+ "name":"Brunej",
+ "code":"BN"
+ },
+ {
+ "name":"Bulharsko",
+ "code":"BG"
+ },
+ {
+ "name":"Burkina Faso",
+ "code":"BF"
+ },
+ {
+ "name":"Burundi",
+ "code":"BI"
+ },
+ {
+ "name":"Kambodža",
+ "code":"KH"
+ },
+ {
+ "name":"Kamerun",
+ "code":"CM"
+ },
+ {
+ "name":"Kanada",
+ "code":"CA",
+ "stateTerm":"Provincie",
+ "stateTermKey":"camera_install_value_province",
+ "zipTerm":"PSČ",
+ "zipTermKey":"camera_install_value_postal",
+ "zipIsOnlyNumbers":false,
+ "states":[
+           {
+           "timeZone":"Horský čas",
+           "abbreviation":"AB",
+           "name":"Alberta"
+           },
+           {
+           "timeZone":"Tichomořský čas",
+           "abbreviation":"BC",
+           "name":"Britská Kolumbie"
+           },
+           {
+           "timeZone":"Centrální čas",
+           "abbreviation":"MB",
+           "name":"Manitoba"
+           },
+           {
+           "timeZone":"Atlantický čas",
+           "abbreviation":"NB",
+           "name":"Nový Brunšvik"
+           },
+           {
+           "timeZone":"Newfoundland",
+           "abbreviation":"NL",
+           "name":"Newfoundland a Labrador"
+           },
+           {
+           "timeZone":"Horský čas",
+           "abbreviation":"NT",
+           "name":"Severozápadní teritoria"
+           },
+           {
+           "timeZone":"Atlantický čas",
+           "abbreviation":"NS",
+           "name":"Nové Skotsko"
+           },
+           {
+           "timeZone":"Centrální čas",
+           "abbreviation":"NU",
+           "name":"Nunavut"
+           },
+           {
+           "timeZone":"Východní čas",
+           "abbreviation":"ON",
+           "name":"Ontario"
+           },
+           {
+           "timeZone":"Atlantický čas",
+           "abbreviation":"PE",
+           "name":"Ostrov prince Edvarda"
+           },
+           {
+           "timeZone":"Východní čas",
+           "abbreviation":"QC",
+           "name":"Québec"
+           },
+           {
+           "timeZone":"Centrální čas",
+           "abbreviation":"SK",
+           "name":"Saskatchewan"
+           },
+           {
+           "timeZone":"Tichomořský čas",
+           "abbreviation":"YT",
+           "name":"Yukon"
+           }
+           ]
+ },
+ {
+ "name":"Kapverdy",
+ "code":"CV"
+ },
+ {
+ "name":"Kajmanské ostrovy",
+ "code":"KY"
+ },
+ {
+ "name":"Středoafrická republika",
+ "code":"CF"
+ },
+ {
+ "name":"Čad",
+ "code":"TD"
+ },
+ {
+ "name":"Chile",
+ "code":"CL"
+ },
+ {
+ "name":"Čína",
+ "code":"CN"
+ },
+ {
+ "name":"Vánoční ostrov",
+ "code":"CX"
+ },
+ {
+ "name":"Kokosové (Keelingovy) ostrovy",
+ "code":"CC"
+ },
+ {
+ "name":"Kolumbie",
+ "code":"CO"
+ },
+ {
+ "name":"Komory",
+ "code":"KM"
+ },
+ {
+ "name":"Kongo",
+ "code":"CG"
+ },
+ {
+ "name":"Demokratická republika Kongo",
+ "code":"CD"
+ },
+ {
+ "name":"Cookovy ostrovy",
+ "code":"CK"
+ },
+ {
+ "name":"Kostarika",
+ "code":"CR"
+ },
+ {
+ "name":"Pobřeží slonoviny",
+ "code":"CI"
+ },
+ {
+ "name":"Chorvatsko",
+ "code":"HR"
+ },
+ {
+ "name":"Kuba",
+ "code":"CU"
+ },
+ {
+ "name":"Curaçao",
+ "code":"CW"
+ },
+ {
+ "name":"Kypr",
+ "code":"CY"
+ },
+ {
+ "name":"Česká republika",
+ "code":"CZ"
+ },
+ {
+ "name":"Dánsko",
+ "code":"DK"
+ },
+ {
+ "name":"Džibutsko",
+ "code":"DJ"
+ },
+ {
+ "name":"Dominika",
+ "code":"DM"
+ },
+ {
+ "name":"Dominikánská republika",
+ "code":"DO"
+ },
+ {
+ "name":"Ekvádor",
+ "code":"EC"
+ },
+ {
+ "name":"Egypt",
+ "code":"EG"
+ },
+ {
+ "name":"Salvador",
+ "code":"SV"
+ },
+ {
+ "name":"Rovníková Guinea",
+ "code":"GQ"
+ },
+ {
+ "name":"Eritrea",
+ "code":"ER"
+ },
+ {
+ "name":"Estonsko",
+ "code":"EE"
+ },
+ {
+ "name":"Etiopie",
+ "code":"ET"
+ },
+ {
+ "name":"Falklandy (Malvíny)",
+ "code":"FK"
+ },
+ {
+ "name":"Faerské ostrovy",
+ "code":"FO"
+ },
+ {
+ "name":"Fidži",
+ "code":"FJ"
+ },
+ {
+ "name":"Finsko",
+ "code":"FI"
+ },
+ {
+ "name":"Francie",
+ "code":"FR"
+ },
+ {
+ "name":"Francouzská Guayana",
+ "code":"GF"
+ },
+ {
+ "name":"Francouzská Polynésie",
+ "code":"PF"
+ },
+ {
+ "name":"Francouzská jižní a antarktická území",
+ "code":"TF"
+ },
+ {
+ "name":"Gabon",
+ "code":"GA"
+ },
+ {
+ "name":"Gambie",
+ "code":"GM"
+ },
+ {
+ "name":"Gruzie",
+ "code":"GE"
+ },
+ {
+ "name":"Německo",
+ "code":"DE"
+ },
+ {
+ "name":"Ghana",
+ "code":"GH"
+ },
+ {
+ "name":"Gibraltar",
+ "code":"GI"
+ },
+ {
+ "name":"Řecko",
+ "code":"GR"
+ },
+ {
+ "name":"Grónsko",
+ "code":"GL"
+ },
+ {
+ "name":"Grenada",
+ "code":"GD"
+ },
+ {
+ "name":"Guadeloupe",
+ "code":"GP"
+ },
+ {
+ "name":"Guam",
+ "code":"GU"
+ },
+ {
+ "name":"Guatemala",
+ "code":"GT"
+ },
+ {
+ "name":"Guernsey",
+ "code":"GG"
+ },
+ {
+ "name":"Guinea",
+ "code":"GN"
+ },
+ {
+ "name":"Guinea-Bissau",
+ "code":"GW"
+ },
+ {
+ "name":"Guyana",
+ "code":"GY"
+ },
+ {
+ "name":"Haiti",
+ "code":"HT"
+ },
+ {
+ "name":"Heardův ostrov a McDonaldovy ostrovy",
+ "code":"HM"
+ },
+ {
+ "name":"Svatý stolec (Vatikán)",
+ "code":"VA"
+ },
+ {
+ "name":"Honduras",
+ "code":"HN"
+ },
+ {
+ "name":"Hongkong",
+ "code":"HK"
+ },
+ {
+ "name":"Maďarsko",
+ "code":"HU"
+ },
+ {
+ "name":"Island",
+ "code":"IS"
+ },
+ {
+ "name":"Indie",
+ "code":"IN"
+ },
+ {
+ "name":"Indonésie",
+ "code":"ID"
+ },
+ {
+ "name":"Írán (islámská republika)",
+ "code":"IR"
+ },
+ {
+ "name":"Irák",
+ "code":"IQ"
+ },
+ {
+ "name":"Irsko",
+ "code":"IE"
+ },
+ {
+ "name":"Ostrov Man",
+ "code":"IM"
+ },
+ {
+ "name":"Izrael",
+ "code":"IL"
+ },
+ {
+ "name":"Itálie",
+ "code":"IT"
+ },
+ {
+ "name":"Jamajka",
+ "code":"JM"
+ },
+ {
+ "name":"Japonsko",
+ "code":"JP"
+ },
+ {
+ "name":"Jersey",
+ "code":"JE"
+ },
+ {
+ "name":"Jordánsko",
+ "code":"JO"
+ },
+ {
+ "name":"Kazachstán",
+ "code":"KZ"
+ },
+ {
+ "name":"Keňa",
+ "code":"KE"
+ },
+ {
+ "name":"Kiribati",
+ "code":"KI"
+ },
+ {
+ "name":"Severní Korea",
+ "code":"KP"
+ },
+ {
+ "name":"Jižní Korea",
+ "code":"KR"
+ },
+ {
+ "name":"Kuvajt",
+ "code":"KW"
+ },
+ {
+ "name":"Kyrgyzstán",
+ "code":"KG"
+ },
+ {
+ "name":"Laos",
+ "code":"LA"
+ },
+ {
+ "name":"Lotyšsko",
+ "code":"LV"
+ },
+ {
+ "name":"Libanon",
+ "code":"LB"
+ },
+ {
+ "name":"Lesotho",
+ "code":"LS"
+ },
+ {
+ "name":"Libérie",
+ "code":"LR"
+ },
+ {
+ "name":"Libye",
+ "code":"LY"
+ },
+ {
+ "name":"Lichtenštejnsko",
+ "code":"LI"
+ },
+ {
+ "name":"Litva",
+ "code":"LT"
+ },
+ {
+ "name":"Lucembursko",
+ "code":"LU"
+ },
+ {
+ "name":"Macao",
+ "code":"MO"
+ },
+ {
+ "name":"Makedonie",
+ "code":"MK"
+ },
+ {
+ "name":"Madagaskar",
+ "code":"MG"
+ },
+ {
+ "name":"Malawi",
+ "code":"MW"
+ },
+ {
+ "name":"Malajsie",
+ "code":"MY"
+ },
+ {
+ "name":"Maledivy",
+ "code":"MV"
+ },
+ {
+ "name":"Mali",
+ "code":"ML"
+ },
+ {
+ "name":"Malta",
+ "code":"MT"
+ },
+ {
+ "name":"Marshallovy ostrovy",
+ "code":"MH"
+ },
+ {
+ "name":"Martinik",
+ "code":"MQ"
+ },
+ {
+ "name":"Mauritánie",
+ "code":"MR"
+ },
+ {
+ "name":"Mauricius",
+ "code":"MU"
+ },
+ {
+ "name":"Mayotte",
+ "code":"YT"
+ },
+ {
+ "name":"Mexiko",
+ "code":"MX"
+ },
+ {
+ "name":"Mikronésie",
+ "code":"FM"
+ },
+ {
+ "name":"Moldávie",
+ "code":"MD"
+ },
+ {
+ "name":"Monako",
+ "code":"MC"
+ },
+ {
+ "name":"Mongolsko",
+ "code":"MN"
+ },
+ {
+ "name":"Černá Hora",
+ "code":"ME"
+ },
+ {
+ "name":"Montserrat",
+ "code":"MS"
+ },
+ {
+ "name":"Maroko",
+ "code":"MA"
+ },
+ {
+ "name":"Mosambik",
+ "code":"MZ"
+ },
+ {
+ "name":"Myanmar",
+ "code":"MM"
+ },
+ {
+ "name":"Namibie",
+ "code":"NA"
+ },
+ {
+ "name":"Nauru",
+ "code":"NR"
+ },
+ {
+ "name":"Nepál",
+ "code":"NP"
+ },
+ {
+ "name":"Nizozemsko",
+ "code":"NL"
+ },
+ {
+ "name":"Nizozemské Antily",
+ "code":"AN"
+ },
+ {
+ "name":"Nová Kaledonie",
+ "code":"NC"
+ },
+ {
+ "name":"Nový Zéland",
+ "code":"NZ"
+ },
+ {
+ "name":"Nikaragua",
+ "code":"NI"
+ },
+ {
+ "name":"Niger",
+ "code":"NE"
+ },
+ {
+ "name":"Nigérie",
+ "code":"NG"
+ },
+ {
+ "name":"Niue",
+ "code":"NU"
+ },
+ {
+ "name":"Ostrov Norfolk",
+ "code":"NF"
+ },
+ {
+ "name":"Severní Mariany",
+ "code":"MP"
+ },
+ {
+ "name":"Norsko",
+ "code":"NO"
+ },
+ {
+ "name":"Omán",
+ "code":"OM"
+ },
+ {
+ "name":"Pákistán",
+ "code":"PK"
+ },
+ {
+ "name":"Palau",
+ "code":"PW"
+ },
+ {
+ "name":"Okupovaná palestinská území",
+ "code":"PS"
+ },
+ {
+ "name":"Panama",
+ "code":"PA"
+ },
+ {
+ "name":"Papua-Nová Guinea",
+ "code":"PG"
+ },
+ {
+ "name":"Paraguay",
+ "code":"PY"
+ },
+ {
+ "name":"Peru",
+ "code":"PE"
+ },
+ {
+ "name":"Filipíny",
+ "code":"PH"
+ },
+ {
+ "name":"Pitcairn",
+ "code":"PN"
+ },
+ {
+ "name":"Polština",
+ "code":"PL"
+ },
+ {
+ "name":"Portugalsko",
+ "code":"PT"
+ },
+ {
+ "name":"Portoriko",
+ "code":"PR"
+ },
+ {
+ "name":"Katar",
+ "code":"QA"
+ },
+ {
+ "name":"Réunion",
+ "code":"RE"
+ },
+ {
+ "name":"Rumunsko",
+ "code":"RO"
+ },
+ {
+ "name":"Rusko",
+ "code":"RU"
+ },
+ {
+ "name":"Rwanda",
+ "code":"RW"
+ },
+ {
+ "name":"Svatá Helena, Ascension a Tristan da Cunha",
+ "code":"SH"
+ },
+ {
+ "name":"Svatý Kryštof a Nevis",
+ "code":"KN"
+ },
+ {
+ "name":"Svatá Lucie",
+ "code":"LC"
+ },
+ {
+ "name":"Saint-Pierre a Miquelon",
+ "code":"PM"
+ },
+ {
+ "name":"Svatý Vincenc a Grenadiny",
+ "code":"VC"
+ },
+ {
+ "name":"Samoa",
+ "code":"WS"
+ },
+ {
+ "name":"San Marino",
+ "code":"SM"
+ },
+ {
+ "name":"Svatý Tomáš a Princův ostrov",
+ "code":"ST"
+ },
+ {
+ "name":"Saúdská Arábie",
+ "code":"SA"
+ },
+ {
+ "name":"Senegal",
+ "code":"SN"
+ },
+ {
+ "name":"Srbsko",
+ "code":"RS"
+ },
+ {
+ "name":"Seychely",
+ "code":"SC"
+ },
+ {
+ "name":"Sierra Leone",
+ "code":"SL"
+ },
+ {
+ "name":"Singapur",
+ "code":"SG"
+ },
+ {
+ "name":"Svatý Martin",
+ "code":"SX"
+ },
+ {
+ "name":"Slovensko",
+ "code":"SK"
+ },
+ {
+ "name":"Slovinsko",
+ "code":"SI"
+ },
+ {
+ "name":"Šalamounovy ostrovy",
+ "code":"SB"
+ },
+ {
+ "name":"Somálsko",
+ "code":"SO"
+ },
+ {
+ "name":"Jihoafrická republika",
+ "code":"ZA"
+ },
+ {
+ "name":"Jižní Georgie a Jižní Sandwichovy ostrovy",
+ "code":"GS"
+ },
+ {
+ "name":"Jižní Súdán",
+ "code":"SS"
+ },
+ {
+ "name":"Španělsko",
+ "code":"ES"
+ },
+ {
+ "name":"Srí Lanka",
+ "code":"LK"
+ },
+ {
+ "name":"Súdán",
+ "code":"SD"
+ },
+ {
+ "name":"Surinam",
+ "code":"SR"
+ },
+ {
+ "name":"Špicberky a Jan Mayen",
+ "code":"SJ"
+ },
+ {
+ "name":"Svazijsko",
+ "code":"SZ"
+ },
+ {
+ "name":"Švédsko",
+ "code":"SE"
+ },
+ {
+ "name":"Švýcarsko",
+ "code":"CH"
+ },
+ {
+ "name":"Sýrie",
+ "code":"SY"
+ },
+ {
+ "name":"Čínská provincie Tchaj-wan",
+ "code":"TW"
+ },
+ {
+ "name":"Tádžikistán",
+ "code":"TJ"
+ },
+ {
+ "name":"Tanzanie",
+ "code":"TZ"
+ },
+ {
+ "name":"Thajsko",
+ "code":"TH"
+ },
+ {
+ "name":"Východní Timor",
+ "code":"TL"
+ },
+ {
+ "name":"Togo",
+ "code":"TG"
+ },
+ {
+ "name":"Tokelau",
+ "code":"TK"
+ },
+ {
+ "name":"Tonga",
+ "code":"TO"
+ },
+ {
+ "name":"Trinidad a Tobago",
+ "code":"TT"
+ },
+ {
+ "name":"Tunisko",
+ "code":"TN"
+ },
+ {
+ "name":"Turecko",
+ "code":"TR"
+ },
+ {
+ "name":"Turkmenistán",
+ "code":"TM"
+ },
+ {
+ "name":"Turks a Caicos",
+ "code":"TC"
+ },
+ {
+ "name":"Tuvalu",
+ "code":"TV"
+ },
+ {
+ "name":"Uganda",
+ "code":"UG"
+ },
+ {
+ "name":"Ukrajina",
+ "code":"UA"
+ },
+ {
+ "name":"Spojené arabské emiráty",
+ "code":"AE"
+ },
+ {
+ "name":"Velká Británie",
+ "code":"GB"
+ },
+ {
+ "name":"Spojené státy",
+ "code":"US",
+ "stateTerm":"Stát",
+ "stateTermKey":"camera_install_value_state",
+ "zipTerm":"PSČ",
+ "zipTermKey":"camera_install_value_zip",
+ "zipIsOnlyNumbers":true,
+ "states":[
+           {
+           "timeZone":"Centrální čas",
+           "abbreviation":"AL",
+           "name":"Alabama"
+           },
+           {
+           "timeZone":"Aljašský čas",
+           "abbreviation":"AK",
+           "name":"Aljaška"
+           },
+           {
+           "timeZone":"Havajský čas",
+           "abbreviation":"AS",
+           "name":"Americká Samoa"
+           },
+           {
+           "timeZone":"Horský čas",
+           "abbreviation":"AZ",
+           "name":"Arizona"
+           },
+           {
+           "timeZone":"Centrální čas",
+           "abbreviation":"AR",
+           "name":"Arkansas"
+           },
+           {
+           "timeZone":"Tichomořský čas",
+           "abbreviation":"CA",
+           "name":"Kalifornie"
+           },
+           {
+           "timeZone":"Horský čas",
+           "abbreviation":"CO",
+           "name":"Colorado"
+           },
+           {
+           "timeZone":"Východní čas",
+           "abbreviation":"CT",
+           "name":"Connecticut"
+           },
+           {
+           "timeZone":"Východní čas",
+           "abbreviation":"DE",
+           "name":"Delaware"
+           },
+           {
+           "timeZone":"Východní čas",
+           "abbreviation":"DC",
+           "name":"District Of Columbia"
+           },
+           {
+           "timeZone":"Havajský čas",
+           "abbreviation":"FM",
+           "name":"Mikronésie"
+           },
+           {
+           "timeZone":"Východní čas",
+           "abbreviation":"FL",
+           "name":"Florida"
+           },
+           {
+           "timeZone":"Východní čas",
+           "abbreviation":"GA",
+           "name":"Georgie"
+           },
+           {
+           "timeZone":"Havajský čas",
+           "abbreviation":"GU",
+           "name":"Guam"
+           },
+           {
+           "timeZone":"Havajský čas",
+           "abbreviation":"HI",
+           "name":"Havaj"
+           },
+           {
+           "timeZone":"Horský čas",
+           "abbreviation":"ID",
+           "name":"Idaho"
+           },
+           {
+           "timeZone":"Centrální čas",
+           "abbreviation":"IL",
+           "name":"Illinois"
+           },
+           {
+           "timeZone":"Východní čas",
+           "abbreviation":"IN",
+           "name":"Indiana"
+           },
+           {
+           "timeZone":"Centrální čas",
+           "abbreviation":"IA",
+           "name":"Iowa"
+           },
+           {
+           "timeZone":"Centrální čas",
+           "abbreviation":"KS",
+           "name":"Kansas"
+           },
+           {
+           "timeZone":"Centrální čas",
+           "abbreviation":"KY",
+           "name":"Kentucky"
+           },
+           {
+           "timeZone":"Centrální čas",
+           "abbreviation":"LA",
+           "name":"Louisiana"
+           },
+           {
+           "timeZone":"Východní čas",
+           "abbreviation":"ME",
+           "name":"Maine"
+           },
+           {
+           "timeZone":"Havajský čas",
+           "abbreviation":"MH",
+           "name":"Marshallovy ostrovy"
+           },
+           {
+           "timeZone":"Východní čas",
+           "abbreviation":"MD",
+           "name":"Maryland"
+           },
+           {
+           "timeZone":"Východní čas",
+           "abbreviation":"MA",
+           "name":"Massachusetts"
+           },
+           {
+           "timeZone":"Východní čas",
+           "abbreviation":"MI",
+           "name":"Michigan"
+           },
+           {
+           "timeZone":"Centrální čas",
+           "abbreviation":"MN",
+           "name":"Minnesota"
+           },
+           {
+           "timeZone":"Centrální čas",
+           "abbreviation":"MS",
+           "name":"Mississippi"
+           },
+           {
+           "timeZone":"Centrální čas",
+           "abbreviation":"MO",
+           "name":"Missouri"
+           },
+           {
+           "timeZone":"Horský čas",
+           "abbreviation":"MT",
+           "name":"Montana"
+           },
+           {
+           "timeZone":"Centrální čas",
+           "abbreviation":"NE",
+           "name":"Nebraska"
+           },
+           {
+           "timeZone":"Tichomořský čas",
+           "abbreviation":"NV",
+           "name":"Nevada"
+           },
+           {
+           "timeZone":"Východní čas",
+           "abbreviation":"NH",
+           "name":"New Hampshire"
+           },
+           {
+           "timeZone":"Východní čas",
+           "abbreviation":"NJ",
+           "name":"New Jersey"
+           },
+           {
+           "timeZone":"Horský čas",
+           "abbreviation":"NM",
+           "name":"Nové Mexiko"
+           },
+           {
+           "timeZone":"Východní čas",
+           "abbreviation":"NY",
+           "name":"New York"
+           },
+           {
+           "timeZone":"Východní čas",
+           "abbreviation":"NC",
+           "name":"Severní Karolína"
+           },
+           {
+           "timeZone":"Centrální čas",
+           "abbreviation":"ND",
+           "name":"Severní Dakota"
+           },
+           {
+           "timeZone":"Havajský čas",
+           "abbreviation":"MP",
+           "name":"Severní Mariany"
+           },
+           {
+           "timeZone":"Východní čas",
+           "abbreviation":"OH",
+           "name":"Ohio"
+           },
+           {
+           "timeZone":"Centrální čas",
+           "abbreviation":"OK",
+           "name":"Oklahoma"
+           },
+           {
+           "timeZone":"Tichomořský čas",
+           "abbreviation":"OR",
+           "name":"Oregon"
+           },
+           {
+           "timeZone":"Havajský čas",
+           "abbreviation":"PW",
+           "name":"Palau"
+           },
+           {
+           "timeZone":"Východní čas",
+           "abbreviation":"PA",
+           "name":"Pensylvánie"
+           },
+           {
+           "timeZone":"Atlantický čas",
+           "abbreviation":"PR",
+           "name":"Portoriko"
+           },
+           {
+           "timeZone":"Východní čas",
+           "abbreviation":"RI",
+           "name":"Rhode Island"
+           },
+           {
+           "timeZone":"Východní čas",
+           "abbreviation":"SC",
+           "name":"Jižní Karolína"
+           },
+           {
+           "timeZone":"Centrální čas",
+           "abbreviation":"SD",
+           "name":"Jižní Dakota"
+           },
+           {
+           "timeZone":"Centrální čas",
+           "abbreviation":"TN",
+           "name":"Tennessee"
+           },
+           {
+           "timeZone":"Centrální čas",
+           "abbreviation":"TX",
+           "name":"Texas"
+           },
+           {
+           "timeZone":"Horský čas",
+           "abbreviation":"UT",
+           "name":"Utah"
+           },
+           {
+           "timeZone":"Východní čas",
+           "abbreviation":"VT",
+           "name":"Vermont"
+           },
+           {
+           "timeZone":"Atlantický čas",
+           "abbreviation":"VI",
+           "name":"Panenské ostrovy"
+           },
+           {
+           "timeZone":"Východní čas",
+           "abbreviation":"VA",
+           "name":"Virginie"
+           },
+           {
+           "timeZone":"Tichomořský čas",
+           "abbreviation":"WA",
+           "name":"Washington"
+           },
+           {
+           "timeZone":"Východní čas",
+           "abbreviation":"WV",
+           "name":"Západní Virginie"
+           },
+           {
+           "timeZone":"Centrální čas",
+           "abbreviation":"WI",
+           "name":"Wisconsin"
+           },
+           {
+           "timeZone":"Horský čas",
+           "abbreviation":"WY",
+           "name":"Wyoming"
+           }
+           ]
+ },
+ {
+ "name":"Menší odlehlé ostrovy Spojených států amerických",
+ "code":"UM"
+ },
+ {
+ "name":"Uruguay",
+ "code":"UY"
+ },
+ {
+ "name":"Uzbekistán",
+ "code":"UZ"
+ },
+ {
+ "name":"Vanuatu",
+ "code":"VU"
+ },
+ {
+ "name":"Venezuela",
+ "code":"VE"
+ },
+ {
+ "name":"Vietnam",
+ "code":"VN"
+ },
+ {
+ "name":"Britské Panenské ostrovy",
+ "code":"VG"
+ },
+ {
+ "name":"Americké Panenské ostrovy",
+ "code":"VI"
+ },
+ {
+ "name":"Wallis a Futuna",
+ "code":"WF"
+ },
+ {
+ "name":"Západní Sahara",
+ "code":"EH"
+ },
+ {
+ "name":"Jemen",
+ "code":"YE"
+ },
+ {
+ "name":"Zambie",
+ "code":"ZM"
+ },
+ {
+ "name":"Zimbabwe",
+ "code":"ZW"
+ }
+ ]
